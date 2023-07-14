@@ -285,8 +285,12 @@ def main():
         link_placeholder.markdown("The link to your presentation will show up here.")
         
        
-        # Create a box where the link to the ppt will be displayed
-        st.session_state['ppt_link'] = None
+        
+
+        # Fancy Placeholder for the future ppt link
+        
+
+
         if 'ppt_link' in st.session_state:
             st.markdown(st.session_state['ppt_link'], unsafe_allow_html=True)
 
