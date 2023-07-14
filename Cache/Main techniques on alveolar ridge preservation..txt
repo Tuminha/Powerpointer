@@ -1,0 +1,40 @@
+#Title: Main Techniques on Alveolar Ridge Preservation
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. Introduction
+2. Socket Preservation
+3. Guided Bone Regeneration
+4. Ridge Splitting
+5. Ridge Augmentation
+6. Factors Influencing Technique Selection
+7. Conclusion
+
+#Slide: 2
+#Header: Introduction
+#Content: Alveolar ridge preservation is a procedure done after tooth extraction to minimize bone loss in the jawbone. There are several techniques used for this purpose.
+
+#Slide: 3
+#Header: Socket Preservation
+#Content: Socket preservation involves placing a bone graft material into the socket immediately after tooth extraction. This technique prevents the collapse of the surrounding bone and maintains the ridge's dimensions.
+
+#Slide: 4
+#Header: Guided Bone Regeneration
+#Content: Guided bone regeneration uses a barrier membrane to separate the soft tissue from the bone graft material. It promotes the growth of new bone and prevents the growth of soft tissue into the socket.
+
+#Slide: 5
+#Header: Ridge Splitting
+#Content: Ridge splitting is used when there is insufficient bone width at the extraction site. The ridge is carefully split, and bone grafting is done to create a wider space for future implant placement.
+
+#Slide: 6
+#Header: Ridge Augmentation
+#Content: Ridge augmentation is used when there is insufficient bone height at the extraction site. Bone graft material is added to the ridge to increase its height before implant placement.
+
+#Slide: 7
+#Header: Factors Influencing Technique Selection
+#Content: The choice of technique depends on factors such as the patient's oral health, bone quality, and the specific needs of the case. A thorough examination and consultation with the dentist are essential for selecting the most appropriate technique.
+
+#Slide: 8
+#Header: Conclusion
+#Content: Alveolar ridge preservation techniques play a crucial role in maintaining bone volume after tooth extraction. Socket preservation, guided bone regeneration, ridge splitting, and ridge augmentation are some of the main techniques used. The selection of the technique depends on various factors and should be determined through professional evaluation.

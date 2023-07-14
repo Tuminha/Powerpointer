@@ -1,0 +1,66 @@
+#Title: Alveolar Ridge Preservation: Techniques, Outcomes, and Future Perspectives
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. Introduction to Alveolar Ridge Preservation
+2. Techniques for Alveolar Ridge Preservation
+3. Alveolar Ridge Preservation with Freeze-Dried Bone Allograft
+4. Comparison of Bovine-Derived Xenografts for Alveolar Ridge Preservation
+5. Alveolar Ridge Preservation and Peri-Implant Mucositis and Peri-Implantitis Prevalence
+6. Enamel Matrix Derivative for Alveolar Ridge Preservation
+7. Bone Remodelling Marker Expression in Grafted and Ungrafted Tooth Extraction Sockets
+8. The "Tunneled Sandwich" Technique for Preserving the Buccal Tissue Volume
+9. Soft Tissue Outcomes Following Alveolar Ridge Preservation
+10. Conclusion and Future Perspectives
+#Footer: Bibliographic reference
+
+#Slide: 2
+#Header: Introduction to Alveolar Ridge Preservation
+#Content: Alveolar ridge preservation (ARP) refers to procedures aimed at minimizing bone resorption that typically occurs after tooth extraction, thus facilitating subsequent implant placement. Various techniques and materials are employed in ARP, including platelet-rich fibrin, freeze-dried bone allograft (FDBA), and bovine-derived xenografts. The effectiveness of these techniques is evaluated based on histomorphometric outcomes, bone neoformation, and patient-reported outcomes, among others.
+#Footer: Bibliographic reference
+
+#Slide: 3
+#Header: Techniques for Alveolar Ridge Preservation
+#Content: Several techniques have been developed for ARP, including the use of platelet-rich fibrin (PRF), freeze-dried bone allograft (FDBA), and bovine-derived xenografts. The choice of technique depends on factors such as the patient's condition, the extent of bone loss, and the clinician's preference. However, it is important to note that while these techniques can facilitate bone neoformation and improve histomorphometric outcomes, they may not completely prevent bone resorption. Therefore, further research is needed to optimize these techniques and develop new ones.
+#Footer: Bibliographic reference
+
+#Slide: 4
+#Header: Alveolar Ridge Preservation with Freeze-Dried Bone Allograft
+#Content: One approach to ARP involves the use of FDBA, which has been shown to promote bone formation and reduce graft particle resorption. In a study by Iezzi et al. (2023), extraction sockets grafted with FDBA and sealed with a collagen membrane showed significant bone formation after 3 months. However, the study also found that FDBA particles embedded in newly formed bone underwent a resorption/remodeling process. This suggests that while FDBA can facilitate ARP, it may not completely preserve the alveolar ridge.
+#Footer: Iezzi G, et al. (2023)
+
+#Slide: 5
+#Header: Comparison of Bovine-Derived Xenografts for Alveolar Ridge Preservation
+#Content: Another approach to ARP involves the use of bovine-derived xenografts. A pilot clinical trial by Shakibaie et al. (2023) compared the outcomes of ARP using two commercially available bovine bone grafts. The study found that while both grafts facilitated successful implant therapy, sites treated with Bio-Oss particles showed better outcomes in terms of crestal gingiva healing process, transversal crestal ridge resorption, and implant primary stability. These findings suggest that the choice of graft material can significantly impact the outcomes of ARP.
+#Footer: Shakibaie B, et al. (2023)
+
+#Slide: 6
+#Header: Alveolar Ridge Preservation and Peri-Implant Mucositis and Peri-Implantitis Prevalence
+#Content: ARP can also impact the prevalence of peri-implant conditions. A cross-sectional study by Nino et al. (2023) found that implants inserted in grafted sockets showed favorable rates of healthy implants in the long term. However, the study also found that an increase in age and a history of periodontitis were associated with a higher risk of developing mucositis or peri-implantitis. These findings suggest that while ARP can promote implant health, additional factors must be considered to minimize the risk of peri-implant conditions.
+#Footer: Nino B, et al. (2023)
+
+#Slide: 7
+#Header: Enamel Matrix Derivative for Alveolar Ridge Preservation
+#Content: The use of enamel matrix derivative (EMD) in conjunction with deproteinized bovine bone mineral (DBBM) has been explored for ARP. A clinical trial by Atieh et al. (2023) found no significant differences in radiographic mean measurements of alveolar ridge height and width following ARP with DBBM and EMD or DBBM alone. However, sites that had less than 1mm loss in alveolar ridge height were significantly higher in the DBBM/EMD group. This suggests that the combination of DBBM and EMD may offer some advantages for ARP.
+#Footer: Atieh MA, et al. (2023)
+
+#Slide: 8
+#Header: Bone Remodelling Marker Expression in Grafted and Ungrafted Tooth Extraction Sockets
+#Content: The expression of bone remodeling markers in grafted and ungrafted tooth extraction sockets has also been investigated. A study by Ram et al. (2023) found that socket healing over time was comparable between grafted and ungrafted sockets. However, the grafted sockets showed more new woven bone at all time points. These findings suggest that grafting can enhance bone formation during socket healing, but further research is needed to understand the underlying mechanisms.
+#Footer: Ram A, et al. (2023)
+
+#Slide: 9
+#Header: The "Tunneled Sandwich" Technique for Preserving the Buccal Tissue Volume
+#Content: The "tunneled sandwich" technique has been proposed as a method for preserving the buccal volume during immediate implant placement. The technique involves creating a subperiosteal pouch for the insertion of a collagen matrix buccal to the alveolar bone crest. A series of ten cases by Bilhan et al. (2023) demonstrated favorable long-term results with this technique, suggesting its potential for enhancing both biological and aesthetic outcomes in ARP.
+#Footer: Bilhan H, et al. (2023)
+
+#Slide: 10
+#Header: Soft Tissue Outcomes Following Alveolar Ridge Preservation
+#Content: The impact of ARP on soft tissue outcomes has been evaluated. A randomized clinical trial by Seo et al. (2023) found that ARP with primary flap closure tended to yield less soft tissue shrinkage than ARP without primary flap closure. These findings suggest that the use of primary flap closure in ARP may offer some benefits for soft tissue outcomes, but further research is needed to confirm these findings.
+#Footer: Seo GJ, et al. (2023)
+
+#Slide: 11
+#Header: Conclusion and Future Perspectives
+#Content: Alveolar ridge preservation is a critical aspect of dental care, particularly in the context of tooth extraction and implant placement. While various techniques and materials have been developed for ARP, further research is needed to optimize these approaches and develop new ones. Future studies should also focus on understanding the underlying mechanisms of bone formation and resorption in ARP, as well as the impact of ARP on soft tissue outcomes and peri-implant conditions.
+#Footer: Bibliographic reference

@@ -1,0 +1,38 @@
+#Title: Periodontitis: Prevalence, Diagnosis, and Treatment
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 1. Introduction to Periodontitis
+2. Prevalence of Periodontitis
+3. Diagnosis of Periodontitis
+4. Treatment of Periodontitis
+5. Importance of Oral Hygiene
+6. Conclusion
+
+#Slide: 2
+#Header: Introduction to Periodontitis
+#Content: Periodontitis is a common gum disease that affects the tissues surrounding the teeth. It is caused by the buildup of plaque and bacteria, leading to inflammation and potential tooth loss.
+
+#Slide: 3
+#Header: Prevalence of Periodontitis
+#Content: Approximately 50% of adults worldwide have some form of gum disease, with 10-15% having moderate to severe periodontitis. The prevalence varies among populations.
+
+#Slide: 4
+#Header: Diagnosis of Periodontitis
+#Content: Diagnosis involves a comprehensive dental examination, assessing gum health, measuring gum pocket depth, and evaluating bone loss through dental X-rays.
+
+#Slide: 5
+#Header: Treatment of Periodontitis
+#Content: Treatment includes professional dental care and good oral hygiene practices. Scaling and root planing are done to remove plaque and tartar. In advanced cases, surgery may be necessary, and antibiotics can be prescribed.
+
+#Slide: 6
+#Header: Importance of Oral Hygiene
+#Content: Regular dental check-ups and consistent oral hygiene practices, such as brushing twice a day, flossing, and using mouthwash, are crucial in managing periodontitis and preventing its progression.
+
+#Slide: 7
+#Header: Conclusion
+#Content: Periodontitis is a common gum disease that can lead to tooth loss if left untreated. Early diagnosis, proper treatment, and good oral hygiene practices are essential in managing the disease and maintaining oral health.
+
+#Slide: 8
+#Header: References
+#Content: (List any references used in creating the presentation)

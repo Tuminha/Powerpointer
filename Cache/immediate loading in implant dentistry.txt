@@ -1,0 +1,73 @@
+#Title: Immediate Loading in Implant Dentistry: An Overview
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. Introduction to Immediate Loading in Implant Dentistry
+2. Facially Driven Treatment Planning
+3. Stability of Immediate-loaded Single Implants
+4. Oral Health-Related Quality of Life and Full-Arch Immediate Loading Rehabilitation
+5. Immediate vs. Delayed Loading of Post-extraction Implants
+6. Paracetamol and Stress Reduction in Implant Surgeries
+7. Prosthetic and Surgical Reconstruction of the Atrophic Anterior Maxilla
+8. Effects of Undersizing Site Preparations on Implant Stability
+9. 5-year Randomized Multicenter Clinical Trial on Single Dental Implants
+10. Crestal Bone Changes in Early vs. Conventionally Loaded Implants
+11. Conclusion
+#Footer: 
+
+#Slide: 2
+#Header: Introduction to Immediate Loading in Implant Dentistry
+#Content: Immediate loading in implant dentistry refers to the practice of placing a temporary or permanent prosthesis on a dental implant immediately after its placement, instead of waiting for a healing period. This presentation will explore various aspects of immediate loading, including its impact on treatment planning, implant stability, patient quality of life, and more. The information presented is based on a variety of studies and case reports published in reputable medical journals.
+#Footer: 
+
+#Slide: 3
+#Header: Facially Driven Treatment Planning
+#Content: A case report by Creagh et al. (2020) discusses the integration of a digital facially driven prosthetic plan to the computer-assisted implant planning for the rehabilitation of edentulous arches. The report emphasizes the importance of considering the harmony among teeth, lips, and face to restore a pleasant smile. This approach involves the use of digital documentation, including intraoral scans, facial scans, and photographs, to guide the treatment plan. The report concludes that an aesthetic and functional rehabilitation is possible using this digital workflow. However, it is important to note that this is a single case report, and further studies are needed to validate these findings.
+#Footer: Creagh J, et al. (2020). Integrating a Facially Driven Treatment Planning to the Digital Workflow for Rehabilitation of Edentulous Arches: A Case Report.
+
+#Slide: 4
+#Header: Stability of Immediate-loaded Single Implants
+#Content: A study by Jagadeesh et al. (2020) aimed to determine the stability of immediate-loaded single implants using a device called Periotest. The study found that implants with longer and larger diameters had higher stability. The authors concluded that Periotest can be used to determine dental implant stability. However, the study also found an unconstructive relationship between implant length and the average Periotest score, as well as an unconstructive association between the implant diameter and the mean Periotest value. These findings suggest that while Periotest can be useful, it may not provide a complete picture of implant stability.
+#Footer: Jagadeesh KN, et al. (2020). Determination of Immediate-loaded Single Implants' Stability with Periotest.
+
+#Slide: 5
+#Header: Oral Health-Related Quality of Life and Full-Arch Immediate Loading Rehabilitation
+#Content: A study by Dellepiane et al. (2020) assessed the oral health-related quality of life (OHRQoL) of patients before, during, and after completion of implant-supported full-arch immediate loading rehabilitation. The study found a significant improvement in OHRQoL after full-arch immediate-loading rehabilitation, particularly in terms of aesthetics and chewing ability. However, phonetics were a critical issue, especially in the intermediate phase of healing. The study concludes that full-arch immediate-loading implant therapy can significantly improve patients' quality of life.
+#Footer: Dellepiane E, et al. (2020). Oral Health-Related Quality of Life and Full-Arch Immediate Loading Rehabilitation: An Evaluation of Preoperative, Intermediate, and Posttreatment Assessments of Patients Using a Modification of the OHIP Questionnaire.
+
+#Slide: 6
+#Header: Immediate vs. Delayed Loading of Post-extraction Implants
+#Content: A randomized clinical trial by Tete et al. (2020) compared the outcome of immediate versus delayed loading protocol using a new conical connection implant in post-extractive sockets over a 4-year follow-up period. The study found a success and survival rate of 96.55% in both groups. The study concludes that the new conical connection implant showed a predictable outcome at 48-month follow-up for both immediate and delayed loading implant rehabilitations. However, further clinical studies are needed to evaluate soft tissues adaptation, patient satisfaction, and long-term follow-up.
+#Footer: Tete G, et al. (2020). Immediate versus delayed loading of post-extraction implants in the aesthetic zone: a prospective longitudinal study with 4-year follow-up.
+
+#Slide: 7
+#Header: Paracetamol and Stress Reduction in Implant Surgeries
+#Content: A study by Adly et al. (2021) evaluated the ability of paracetamol to lower stress and anxiety compared with ibuprofen during and after computer guided implant surgery. The study found that stress and anxiety were significantly lower in the paracetamol group. However, paracetamol did not significantly control swelling at the implant site. The study concludes that paracetamol is effective in reducing stress by minimizing anxiety and blunting emotions of "fear-from-pain" so that pain is no longer perceived as much.
+#Footer: Adly MS, et al. (2021). Can paracetamol lower stress and anxiety by blunting emotions during and after computer guided dental implant surgeries? Findings from a randomized crossover clinical trial.
+
+#Slide: 8
+#Header: Prosthetic and Surgical Reconstruction of the Atrophic Anterior Maxilla
+#Content: A case report by Kocak et al. (2020) presents the rehabilitation of a 19-year-old maxillary anterior edentulous male patient with maxillary anterior bone defect and excessive cross-bite anterior closure. The patient was rehabilitated with implant supported hybrid prosthesis with Malo Bridge design following autogeneous iliac bone augmentation, teeth leveling with orthodontic treatment, and surgical placement of three implants. The report concludes that esthetics, pleasing phonetics and function were achieved as desired with this treatment option and no complications were observed.
+#Footer: Kocak RG, et al. (2020). Prosthetic and Surgical Reconstruction of the Atrophic Anterior Maxilla with Iliac Bone Grafting and Malo Bridge Design: A Case Report.
+
+#Slide: 9
+#Header: Effects of Undersizing Site Preparations on Implant Stability
+#Content: A study by Lemos et al. (2020) aimed to understand the influence of different undersized surgical preparation sites on the insertion torque (IT) and implant stability quotient (ISQ). The study found that both variables showed a tendency to increase as the preparation technique was reduced. However, not all the values were statistically significant, suggesting that while undersizing site preparations may enhance implant stability, further research is needed to confirm these findings.
+#Footer: Lemos BF, et al. (2020). Effects of Different Undersizing Site Preparations on Implant Stability.
+
+#Slide: 10
+#Header: 5-year Randomized Multicenter Clinical Trial on Single Dental Implants
+#Content: A multicenter randomized controlled clinical trial by Kern et al. (2021) investigated whether the loading protocol of single dental implants placed in the midline of edentulous mandibles will influence the implant survival or prosthetic maintenance. The study found that immediately loaded single implants in the midline of the edentulous mandible revealed a statistically significant lower survival rate than implants loaded conventionally over an observation period of 5 years. The study concludes that immediate loading of a single mandibular implant in the edentulous mandible should be considered only in exceptional cases.
+#Footer: Kern M, et al. (2021). 5-year randomized multicenter clinical trial on single dental implants placed in the midline of the edentulous mandible.
+
+#Slide: 11
+#Header: Crestal Bone Changes in Early vs. Conventionally Loaded Implants
+#Content: A study by Galindo-Moreno et al. (2021) compared the marginal bone level around implants with a thin multi-phosphonate coated surface after either an early or conventional loading protocol. The study found that the use of implants with a multi-phosphonate coated surface for early loading offers successful radiographical outcomes 1 year after loading. The study concludes that marginal bone level over time was not affected by taking the impressions 4 or 8 weeks after implant placement and loading them 2 weeks later.
+#Footer: Galindo-Moreno P, et al. (2021). Crestal Bone Changes around Early vs. Conventionally Loaded Implants with a Multi-phosphonate Coated Surface: A Randomized Pilot Clinical Trial.
+
+#Slide: 12
+#Headers: Conclusion
+#Content: Immediate loading in implant dentistry is a complex field with various factors influencing its outcomes. Factors such as treatment planning, implant stability, patient quality of life, timing of loading, and pharmacological interventions all play a role. While immediate loading can offer benefits such as improved aesthetics and chewing ability, it also presents challenges such as potential lower implant survival rates. Further research is needed to fully understand the implications of immediate loading in implant dentistry and to develop best practice guidelines.
+#Footer: 
+

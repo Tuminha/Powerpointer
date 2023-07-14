@@ -1,0 +1,38 @@
+#Title: Types of Connective Tissue Graft
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. Free Gingival Graft (FGG)
+2. Subepithelial Connective Tissue Graft (SCTG)
+3. Acellular Dermal Matrix Graft (ADMG)
+4. Pedicle Graft
+5. Allograft and Xenograft
+
+#Slide: 2
+#Header: Free Gingival Graft (FGG)
+#Content: Involves taking tissue from the palate and grafting it to an area of gum tissue that needs augmentation.
+
+#Slide: 3
+#Header: Subepithelial Connective Tissue Graft (SCTG)
+#Content: Tissue is harvested from beneath the surface of the palate and grafted onto the area of gum recession.
+
+#Slide: 4
+#Header: Acellular Dermal Matrix Graft (ADMG)
+#Content: Involves the use of a processed tissue matrix derived from human or animal sources. It acts as a scaffold for the patient's own cells to grow into.
+
+#Slide: 5
+#Header: Pedicle Graft
+#Content: Uses nearby gum tissue that is partially cut and rotated over the area in need of gum tissue augmentation.
+
+#Slide: 6
+#Header: Allograft and Xenograft
+#Content: Graft materials derived from human or animal sources, respectively. Used as alternatives to using the patient's own tissue for grafting.
+
+#Slide: 7
+#Header: Factors to Consider
+#Content: The choice of graft type depends on factors such as the patient's oral health status, extent of tissue loss, and treatment goals discussed with the dentist or periodontist.
+
+#Slide: 8
+#Header: Summary
+#Content: There are several types of connective tissue grafts used in dentistry, including Free Gingival Graft, Subepithelial Connective Tissue Graft, Acellular Dermal Matrix Graft, Pedicle Graft, and Allograft/Xenograft. The choice of graft type depends on various factors and should be discussed with a dental professional.

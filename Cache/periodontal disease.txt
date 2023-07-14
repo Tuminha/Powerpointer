@@ -1,0 +1,45 @@
+#Title: Periodontal Disease and Cardiovascular Health
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. Introduction to Periodontal Disease
+2. Relationship between Periodontal Disease and Cardiovascular Health
+3. Health Professionals' Knowledge and Clinical Practice
+4. Conclusion
+5. References
+
+#Slide: 2
+#Header: Introduction to Periodontal Disease
+#Content: 
+- Periodontal disease is a chronic inflammatory condition affecting the gums and supporting structures of the teeth.
+- It is caused by bacteria in dental plaque, leading to inflammation and destruction of the tissues.
+- Common symptoms include gum bleeding, bad breath, and tooth loss if left untreated.
+
+#Slide: 3
+#Header: Relationship between Periodontal Disease and Cardiovascular Health
+#Content: 
+- Research suggests a bidirectional relationship between periodontal disease and cardiovascular health.
+- Chronic inflammation in periodontal disease may contribute to the development and progression of cardiovascular diseases.
+- Studies have shown associations between periodontal disease and conditions like heart disease, stroke, and atherosclerosis.
+
+#Slide: 4
+#Header: Health Professionals' Knowledge and Clinical Practice
+#Content: 
+- A study conducted in León, Spain, aimed to assess health professionals' knowledge and clinical practice regarding the relationship between cardiovascular diseases and periodontal disease.
+- The study found that there was a lack of awareness and knowledge among health professionals about this relationship.
+- It highlighted the need for improved education and collaboration between dental and medical professionals.
+
+#Slide: 5
+#Header: Conclusion
+#Content: 
+- Periodontal disease is a chronic inflammatory condition affecting the gums and supporting structures of the teeth.
+- There is a growing body of evidence suggesting a link between periodontal disease and cardiovascular health.
+- Health professionals need to be educated about this relationship to provide comprehensive care to their patients.
+
+#Slide: 6
+#Header: References
+#Content: 
+- León (Spain) Health professionals' knowledge and clinical practice towards the relationship between cardiovascular diseases and periodontal disease. PubMed. Retrieved from [insert PubMed link here]
+
+#Slide: END
