@@ -274,7 +274,31 @@ def main():
         # When the user presses the 'Submit' button, the form is submitted and all the inputs inside the form are used at once.
         submit_button = st.form_submit_button(label='Generate Presentation')
 
+        # Provisional message
+        link_placeholder = st.empty()
+
+        # Spinners
+        spinner_placeholder = st.empty()
+
+
+        # Display provisional message
+        link_placeholder.markdown("The link to your presentation will show up here.")
+
+        if 'ppt_link' in st.session_state:
+            st.markdown(st.session_state['ppt_link'], unsafe_allow_html=True)
+
+
         if submit_button and user_text:
+            # Animate the text while the presentation is being generated
+            spinner_placeholder.text('Generating presentation...')
+            
+            spinner_placeholder.empty() 
+
+            # Clear previous system messages warnings and old links to the presentations
+            st.session_state['ppt_link'] = None
+            st.session_state['system_messages'] = None
+            #Show a mesage to the user explaining that the presentation is being generated and all the logs will be displayed below. If some logs show error is not a problem, is just the way the API works.
+            st.info('Generating presentation... Please wait. All the logs will be displayed below. If some logs show error is not a problem, is just the way the API works.')
             img_urls = serp_images(user_text)  
             for url in img_urls:
                 try:
@@ -316,6 +340,15 @@ def main():
     
             st.success('PowerPoint presentation generated successfully.')
             st.markdown(get_ppt_download_link(ppt_file_path, user_text), unsafe_allow_html=True)
+
+            st.session_state['ppt_link'] = get_ppt_download_link(ppt_file_path, user_text)
+
+            # Update the provisional message with the actual link
+            if 'ppt_link' in st.session_state:
+                link_placeholder.markdown(st.session_state['ppt_link'], unsafe_allow_html=True)
+
+    
+
 
 if __name__ == "__main__":
     main()

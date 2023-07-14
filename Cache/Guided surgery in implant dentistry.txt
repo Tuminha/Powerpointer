@@ -1,0 +1,72 @@
+#Title: Guided Surgery in Implant Dentistry: A Comprehensive Overview
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. Introduction to Guided Surgery in Implant Dentistry
+2. Risk Factors for Early Crestal Bone Loss
+3. Impact of Different Types of Collagen Membranes
+4. Patient-Reported Outcomes Following Guided Bone Regeneration
+5. The Role of 3D-Bioprinting in Mandible Reconstruction
+6. The Accuracy of Implant Placement with CAD/CAM Surgical Guide
+7. Guided Bone Regeneration Using Magnesium Membranes
+8. Comparing Dynamic Guided Surgery and Static Guided Surgery
+9. The Influence of Membrane Properties on Molecular Changes
+10. Clinical Evaluation of Narrow-Diameter Implants
+11. Summary and Conclusion
+#Footer: Slide content adapted from PubMed
+
+#Slide: 2
+#Header: Introduction to Guided Surgery in Implant Dentistry
+#Content: Guided surgery in implant dentistry is a precise and predictable technique that uses computer-aided design and manufacturing (CAD/CAM) technology to plan and execute dental implant placements. This approach offers several advantages, including improved accuracy, reduced surgical time, and enhanced patient comfort. However, like all medical procedures, it also has potential risks and limitations that need to be considered. This presentation will provide an in-depth look at the latest research and developments in guided surgery in implant dentistry.
+#Footer: Slide content adapted from PubMed
+
+#Slide: 3
+#Header: Risk Factors for Early Crestal Bone Loss
+#Content: Early crestal bone loss (ECBL) around submerged, non-loaded implants can potentially compromise long-term stability and success. A study by Shah et al. (2023) found that lack of supportive periodontal therapy (SPT) was significantly associated with ECBL. On the other hand, guided bone regeneration (GBR) procedures prior to implant placement were shown to have a protective effect. These findings underscore the importance of periodontal treatment and SPT for peri-implant health.
+#Footer: Shah B, Dukka H, Alhachache S, Hill M, Cheng GL, Sekula M. (2023). Analysis of risk factors for early crestal bone loss in osseointegrated, submerged implants prior to restoration.
+
+#Slide: 4
+#Header: Impact of Different Types of Collagen Membranes
+#Content: The type of collagen membrane used in guided bone regeneration can impact bone-implant contact (BIC). An experimental study by Dogan Kaplan A et al. (2023) compared three bioabsorbable collagen membranes and found varying degrees of success. Notably, Geistlich Bio-Gide and Ossix Plus groups showed significantly higher BIC values compared to the control group. This suggests that the choice of collagen membrane can significantly influence the outcome of peri-implant dehiscence defect treatment.
+#Footer: Dogan Kaplan A, Cinar IC, Gultekin BA, Avci Kupeli Z, Ozfirat EC, Yalcin S. (2023). The Effect of Different Types of Collagen Membranes on Peri-Implant Dehiscence Defects.
+
+#Slide: 5
+#Header: Patient-Reported Outcomes Following Guided Bone Regeneration
+#Content: A study by Kofina V et al. (2023) examined patient-reported outcome measures (PROMs) after extraction and guided bone regeneration (GBR). The study found that postoperative symptoms are worst on day 2, and oral health-related quality of life is significantly impacted by pain, swelling, difficulty of mouth opening, surgery duration, and flap advancement. These findings can help guide practitioners on what patients should anticipate following GBR.
+#Footer: Kofina V, Monfaredzadeh M, Rawal SY, Dentino AR, Singh M, Tatakis DN. (2023). Patient-reported outcomes following guided bone regeneration: Correlation with clinical parameters.
+
+#Slide: 6
+#Header: The Role of 3D-Bioprinting in Mandible Reconstruction
+#Content: The use of 3D-bioprinting, particularly in combination with fibula free flaps, is becoming increasingly popular for mandible reconstruction. A case study by Hwang BY et al. (2023) demonstrated the successful use of a 3D-bioprinted, patient-specific polycaprolactone (PCL) implant for mandible reconstruction in a young patient with a malignant tumor. The patient's reconstructed mandible maintained volume symmetry without any complications for over 6 years, demonstrating the potential of this approach.
+#Footer: Hwang BY, Noh K, Lee JW. (2023). Long-Term Follow-Up of a Novel Surgical Option Combining Fibula Free Flap and 3D-Bioprinted, Patient-Specific Polycaprolactone (PCL) Implant for Mandible Reconstruction.
+
+#Slide: 7
+#Header: The Accuracy of Implant Placement with CAD/CAM Surgical Guide
+#Content: Guided surgery using CAD/CAM surgical guides has been shown to significantly improve the accuracy of implant placement. A study by Li S et al. (2023) found that, for novices, using a surgical guide for the first implant placement reduced potential deviations compared with freehand surgery. Interestingly, the study found no significant difference in accuracy between novice practitioners using a surgical guide and experienced specialists, highlighting the benefits of guided surgery.
+#Footer: Li S, Yi C, Yu Z, Wu A, Zhang Y, Lin Y. (2023). Accuracy assessment of implant placement with versus without a CAD/CAM surgical guide by novices versus specialists via the digital registration method: an in vitro randomized crossover study.
+
+#Slide: 8
+#Header: Guided Bone Regeneration Using Magnesium Membranes
+#Content: A new development in GBR is the use of resorbable magnesium membranes. A literature review and case report by Blašković M et al. (2023) found that these membranes, along with magnesium fixation screws, were excellent biomaterials for GBR. They were completely resorbed after healing, with no adverse reactions detected, suggesting that they could be a promising alternative to traditional membranes.
+#Footer: Blašković M, Butorac Prpić I, Blašković D, Rider P, Tomas M, Čandrlić S, Botond Hangyasi D, Čandrlić M, Perić Kačarević Ž. (2023). Guided Bone Regeneration Using a Novel Magnesium Membrane: A Literature Review and a Report of Two Cases in Humans.
+
+#Slide: 9
+#Header: Comparing Dynamic Guided Surgery and Static Guided Surgery
+#Content: A study by Marques-Guasch J et al. (2023) compared the accuracy of dynamic guided surgery (DGS) and static guided surgery (SGS). The study found no significant difference in the implant deviation coefficient between the two methods, suggesting that both DGS and SGS can provide highly accurate procedures for implant placement.
+#Footer: Marques-Guasch J, Bofarull-Ballús A, Giralt-Hernando M, Hernández-Alfaro F, Gargallo-Albiol J. (2023). Dynamic Implant Surgery-An Accurate Alternative to Stereolithographic Guides-Systematic Review and Meta-Analysis.
+
+#Slide: 10
+#Header: The Influence of Membrane Properties on Molecular Changes
+#Content: The properties of nonresorbable membranes can influence molecular changes in the tissue surrounding the implant. A study by Turri A et al. (2023) found that dual-layered expanded PTFE membranes promoted bone formation during GBR and influenced the expression of genes related to osteogenic differentiation, regeneration, and vascularization. These findings suggest that modifying the surface of e-PTFE membranes can enhance bone regeneration.
+#Footer: Turri A, Omar O, Trobos M, Thomsen P, Dahlin C. (2023). Modulation of gene expression and bone formation by expanded and dense polytetrafluoroethylene membranes during guided bone regeneration: An experimental study.
+
+#Slide: 11
+#Header: Clinical Evaluation of Narrow-Diameter Implants
+#Content: Narrow-diameter implants (NDIs) are considered a primary alternative when standard-diameter implants are unsuitable. A study by Hwang I et al. (2023) found that NDIs had a survival rate of 90.6%, and age was associated with implant failure. These findings suggest that while NDIs can be a viable option, further studies are needed to confirm their long-term stability.
+#Footer: Hwang I, Kim TI, Cho YD. (2023). Clinical evaluation of 3.0-mm narrow-diameter implants: a retrospective study with up to 5 years of observation.
+
+#Slide: 12
+#Headers: Summary and Conclusion
+#Content: Guided surgery in implant dentistry is a rapidly evolving field with significant potential to improve patient outcomes. Recent research has highlighted the role of various factors, including the type of collagen membrane used, patient-reported outcomes, the use of 3D-bioprinting, the accuracy of CAD/CAM surgical guides, and the properties of nonresorbable membranes, in influencing the success of implant placement. Additionally, the use of narrow-diameter implants and magnesium membranes has shown promise. However, more research is needed to further refine these techniques and to fully understand their long-term implications.
+#Footer: Slide content adapted from PubMed

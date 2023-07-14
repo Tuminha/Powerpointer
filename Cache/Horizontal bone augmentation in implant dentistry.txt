@@ -1,0 +1,65 @@
+#Title: Horizontal Bone Augmentation in Implant Dentistry
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 1. Introduction to Horizontal Bone Augmentation
+2. Simultaneous vs. Delayed Implant Placement
+3. Stability of Guided Bone Regeneration
+4. Dimensional Changes in Guided Bone Regeneration
+5. Computer-assisted Bone Augmentation
+6. Techniques of Horizontal Alveolar Ridge Expansion
+7. Barbell Technique for Bidirectional Bone Augmentation
+8. Mylohyoid Muscle Release in Ridge Augmentation Surgeries
+9. Summary
+10. Conclusion
+#Footer: Various PubMed resources
+
+#Slide: 2
+#Header: Introduction to Horizontal Bone Augmentation
+#Content: Horizontal bone augmentation is a surgical procedure commonly used in implant dentistry to achieve adequate bone volume for dental implant placement. This procedure is particularly important when the alveolar ridge resorption after tooth extraction interferes with optimal dental implant placement. Various techniques and materials are used to achieve successful bone augmentation, including autogenous bone grafts, biphasic calcium phosphate, and customised 3D printed block grafts. The choice of technique often depends on the specific patient's needs and the clinician's expertise.
+#Footer: Various PubMed resources
+
+#Slide: 3
+#Header: Simultaneous vs. Delayed Implant Placement
+#Content: A study comparing the marginal bone loss (MBL) and thickness of the buccal aspect of the augmented site in simultaneous versus delayed implant placement following lateral ramus horizontal ridge augmentation in the posterior mandible found no significant difference in MBL and post-operative changes in the thickness of the buccal aspect of the augmented sites with onlay lateral ramus bone blocks between simultaneous and delayed implant placement (Tabrizi et al., 2023). This suggests that both techniques can be equally effective, depending on the specific case.
+#Footer: Tabrizi R, Mohajerani H, Moslemi H, Shafiei S, Majdi S (2023)
+
+#Slide: 4
+#Header: Stability of Guided Bone Regeneration
+#Content: A randomized, double-blind, clinical trial comparing the stability of the horizontal dimensions (facial bone thickness) of augmented bone using biphasic calcium phosphate (BCP) with hydroxyapatite/β-tricalcium phosphate ratio of either 60/40 or 70/30 found that BCP bone grafts with HA/β-TCP ratio of 60/40 and 70/30 showed comparable outcomes for contour augmentation simultaneously with implant placement. Interestingly, the 70/30 ratio was significantly superior in maintaining facial thickness and showed more stable horizontal dimensions of the augmented site (Arunjaroensuk et al., 2023).
+#Footer: Arunjaroensuk S, Thunyakitpisal P, Nampuksa K, Monmaturapoj N, Mattheos N, Pimkhaokham A (2023)
+
+#Slide: 5
+#Header: Dimensional Changes in Guided Bone Regeneration
+#Content: A retrospective study evaluating the dimensional changes after horizontal and vertical guided bone regeneration (GBR) without membrane fixation using the retentive flap technique found that this technique seems to preserve the radiographic bone dimensions of vertically augmented sites. However, it may be less effective at preserving the width of the augmented tissue (Park et al., 2023). This suggests that the specific technique used for GBR can significantly impact the success of the procedure.
+#Footer: Park JY, Chung HM, Strauss FJ, Lee JS (2023)
+
+#Slide: 6
+#Header: Computer-assisted Bone Augmentation
+#Content: An in vitro study assessing the workflow for alveolar ridge augmentation with customised 3D printed block grafts and simultaneous computer-assisted implant planning and placement found that customised block grafts fabricated through CBCT, computer-assisted design and 3D printing allow alveolar ridge augmentation with clinically acceptable predictability and reproducibility. Computer-assisted implant planning and placement can be performed simultaneously with computer-assisted block grafting leading to clinically non-relevant dislocation of block grafts (Unger et al., 2023).
+#Footer: Unger S, Benic GI, Ender A, Pasic P, Hämmerle CHF, Stadlinger B (2023)
+
+#Slide: 7
+#Header: Techniques of Horizontal Alveolar Ridge Expansion
+#Content: A clinical study compared the modified ridge splitting (RS) and distraction osteogenesis (DO) for horizontal ridge expansion. Both techniques seemed to be useful as augmentation techniques for dental implant placement in a narrow alveolar ridge. However, the modified splitting technique has fewer complications, less pain, and better soft tissue healing when compared with the DO technique (Al-Dubai et al., 2022).
+#Footer: Al-Dubai SAS, Abdel-Rahman FH, Ahmed WMAS, Tawfik MA (2022)
+
+#Slide: 8
+#Header: Barbell Technique for Bidirectional Bone Augmentation
+#Content: A study was carried out to validate a new device that permits bidirectional bone augmentation. The use of this novel device permits bidirectional horizontal bone augmentation. All grafted sites were able to receive dental implants in adequate prosthetic positions. This suggests that the Barbell technique can be an effective method for bidirectional bone augmentation (Macedo et al., 2023).
+#Footer: Macedo LGS, Pelegrine AA, Moy PK (2023)
+
+#Slide: 9
+#Header: Mylohyoid Muscle Release in Ridge Augmentation Surgeries
+#Content: A study reviewed, analyzed and discussed the three different techniques for the mylohyoid muscle release (MMR) in vertical and horizontal ridge augmentation surgeries. All three techniques are considered safe, but they are not free of limitations or complications; therefore, they should be performed only by highly experienced and trained clinicians. One of the techniques, the mylohyoid preservation technique, achieved statistically significant higher flap advancement (Soldatos et al., 2023).
+#Footer: Soldatos N, Immonen J, Romanos G, Weltman R (2023)
+
+#Slide: 10
+#Headers: Summary
+#Content: Horizontal bone augmentation in implant dentistry involves various techniques to achieve adequate bone volume for dental implant placement. These techniques include simultaneous versus delayed implant placement, guided bone regeneration with different materials, computer-assisted bone augmentation, different techniques of horizontal alveolar ridge expansion, and the use of novel devices for bidirectional bone augmentation. The choice of technique often depends on the specific patient's needs and the clinician's expertise.
+#Footer: Various PubMed resources
+
+#Slide: 11
+#Header: Conclusion
+#Content: Horizontal bone augmentation is a critical procedure in implant dentistry to ensure successful dental implant placement. Various techniques and materials can be used, and the choice often depends on the specific case and the clinician's expertise. Further research is needed to continue to improve these techniques and to develop new methods for bone augmentation.
+#Footer: Various PubMed resources
