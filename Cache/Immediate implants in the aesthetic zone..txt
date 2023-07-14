@@ -1,0 +1,72 @@
+#Title: Immediate Implants in the Aesthetic Zone: A Comprehensive Review
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. Introduction to Immediate Implants
+2. Immediate Implant Placement with and without Provisionalization
+3. Acrylic Tooth Splint for Immediate Provisionalization
+4. Novel Tapered Implant Design and Digital Workflow
+5. The "Tunneled Sandwich" Technique
+6. Hard and Soft Tissue Alterations
+7. Comparison of Immediate and Early Implant Placement
+8. Vestibular Socket Therapy Versus Partial Extraction Therapy
+9. Management of Root Sensitivity
+10. Frequency of Screw-Retained Angulated Screw Channel Single Crown
+11. Summary and Conclusion
+#Footer: Bibliographic reference
+
+#Slide: 2
+#Header: Introduction to Immediate Implants
+#Content: Immediate implants are a dental procedure that involves the placement of dental implants immediately after tooth extraction. This technique has gained popularity due to its potential benefits such as shortened treatment time, improved patient satisfaction, and maintenance of soft and hard tissues. However, it is a technique-sensitive procedure and various factors need to be considered for successful outcomes such as patient selection, surgical technique, and prosthetic considerations. 
+#Footer: Bibliographic reference
+
+#Slide: 3
+#Header: Immediate Implant Placement with and without Provisionalization
+#Content: Immediate implant placement with and without provisionalization can yield satisfactory results, particularly in the aesthetic zone. A study by Fu et al. (2023) compared implant stability, marginal bone loss, survival rates, and patient satisfaction between these two techniques. The results showed no significant differences in terms of marginal bone loss and survival. However, patient satisfaction was significantly higher in the group with immediate provisionalization. This suggests that immediate provisionalization may enhance patient satisfaction in immediate implant placement procedures.
+#Footer: Fu PS, Tseng FC, Lan TH, Lai PL, Chen CH, Chen JH, Liu CT, Chen WC, Hung CC (2023).
+
+#Slide: 4
+#Header: Acrylic Tooth Splint for Immediate Provisionalization
+#Content: Provisionalization of the extracted tooth while waiting for soft and hard tissue healing is crucial in restorative treatment. A study by Adam et al. (2023) presented three clinical cases demonstrating a simple yet cost-effective technique to temporarily replace an extracted single anterior tooth. This technique enhances patient satisfaction and increases compliance before receiving the definitive implant restoration. However, each treatment option has its advantages and disadvantages, and various factors such as available materials, ease of fabrication, costs, and the effect on the future implant site should be considered.
+#Footer: Adam FA, Mohamd Tarmizi FS, Goo CL (2023).
+
+#Slide: 5
+#Header: Novel Tapered Implant Design and Digital Workflow
+#Content: The application of a novel self-cutting, tapered implant in combination with a digital integrated prosthetic workflow for immediate placement and restoration has been assessed by Pariente et al. (2023). The results suggest that immediate placement of novel tapered implants and immediate provisionalization using an integrated digital workflow can result in predictable functional and aesthetic results for the immediate transition of failing single teeth in the aesthetic area.
+#Footer: Pariente L, Dada K, Linder S, Dard M (2023).
+
+#Slide: 6
+#Header: The "Tunneled Sandwich" Technique
+#Content: The "tunneled sandwich" technique combines the technique of immediate implant placement with the enhancement of the buccal tissue by applying a cross-linked collagen matrix hydrated with a cross-linked hyaluronic acid. According to Bilhan et al. (2023), this technique appears to be a suitable method to preserve the buccal volume, contributing both biologically and aesthetically to favorable long-term results.
+#Footer: Bilhan H, Friedmann A (2023).
+
+#Slide: 7
+#Header: Hard and Soft Tissue Alterations
+#Content: A study by Yuan et al. (2023) evaluated the hard and soft tissue alterations of immediate implant placement and provisionalization with customized definitive abutments in the aesthetic zone. The results showed that the definitive abutment used with immediate implant placement and provisionalization could potentially maintain the buccal bone thickness and height. For the facial soft tissue, it also benefited the maintenance of the midfacial gingival margin position and papilla height during the 6-month follow-up.
+#Footer: Yuan DX, Wu D, Cao X, Chen S, Wang X (2023).
+
+#Slide: 8
+#Header: Comparison of Immediate and Early Implant Placement
+#Content: A systematic review and meta-analysis by Qin et al. (2023) aimed to determine whether immediate implant placement and loading renders different outcomes from delayed loading with respect to midfacial mucosal level in the maxillary aesthetic area. The results revealed that midfacial mucosa level change was lower following immediate implant placement and loading, suggesting that immediate implant placement and loading is conducive to the preservation of physiologic soft and hard tissue architecture.
+#Footer: Qin R, Chen Y, Han C, Wu D, Yu F, He D (2023).
+
+#Slide: 9
+#Header: Vestibular Socket Therapy Versus Partial Extraction Therapy
+#Content: A study by Elaskary et al. (2023) aimed to assess aesthetic and soft and hard tissue outcomes 6 months after immediate implant placement using vestibular socket therapy (VST) versus partial extraction therapy in intact thin-walled fresh extraction sockets in the aesthetic zone. The results suggest that both VST and partial extraction therapy preserved alveolar bone structure and peri-implant tissues following immediate implants, making VST a predictable alternative treatment approach for immediate implant placement.
+#Footer: Elaskary A, Abdelrahman H, Elfahl B, Elsabagh H, El-Kimary G, Ghallab NA (2023).
+
+#Slide: 10
+#Header: Management of Root Sensitivity
+#Content: Maintaining facial soft tissue contour and inter-implant papilla are challenging for implants in the aesthetic zone. The socket shield technique (SST) has been advocated to maintain the facial and/or interproximal osseous and gingival architecture. However, complications related to SST have been reported. Fang et al. (2023) present a unique complication after a socket shield procedure and a novel management of the complication.
+#Footer: Fang Q, Kan JY, Limmeechokchai S, Rungcharassaeng K, Lozada J, Handysides RA (2023).
+
+#Slide: 11
+#Header: Frequency of Screw-Retained Angulated Screw Channel Single Crown
+#Content: A study by Kan et al. (2023) aimed to determine the frequency percentage of screw-retained crown using angulated screw channel (ASC) abutment for single immediate implant placement and provisionalization (IIPP) in the aesthetic zone. The results showed that 90% of single IIPP in the aesthetic zone can be restored with screw-retained crown when utilizing ASC. This indicates that the possibility of using a screw-retained restoration following IIPP increases about five times with ASC abutment compared to the SSC abutment.
+#Footer: Kan JYK, Rungcharassaeng K, Kamolroongwarakul P, Lin GH, Matsuda H, Yin S, Wang HL, Tarnow D, Lozada JL (2023).
+
+#Slide: 12
+#Headers: Summary and Conclusion
+#Content: Immediate implants in the aesthetic zone have shown promising results in terms of patient satisfaction, preservation of soft and hard tissues, and aesthetic outcomes. Various techniques such as immediate provisionalization, use of novel tapered implants, the "tunneled sandwich" technique, and the use of ASC abutments have been employed to enhance the success of immediate implants. However, these are technique-sensitive procedures and require careful patient selection, surgical technique, and prosthetic considerations. Future research with long-term follow-up is warranted to further evaluate the efficacy and outcomes of these techniques.
+#Footer: Bibliographic reference

@@ -283,15 +283,22 @@ def main():
 
         # Display provisional message
         link_placeholder.markdown("The link to your presentation will show up here.")
-
+        
+       
+        # Create a box where the link to the ppt will be displayed
+        st.session_state['ppt_link'] = None
         if 'ppt_link' in st.session_state:
             st.markdown(st.session_state['ppt_link'], unsafe_allow_html=True)
 
 
         if submit_button and user_text:
+            # Clear the provisional message when the user submits the form and replace it with a spinner
+            link_placeholder.empty()
+
             # Animate the text while the presentation is being generated
             spinner_placeholder.text('Generating presentation...')
-            
+
+
             spinner_placeholder.empty() 
 
             # Clear previous system messages warnings and old links to the presentations
@@ -299,6 +306,9 @@ def main():
             st.session_state['system_messages'] = None
             #Show a mesage to the user explaining that the presentation is being generated and all the logs will be displayed below. If some logs show error is not a problem, is just the way the API works.
             st.info('Generating presentation... Please wait. All the logs will be displayed below. If some logs show error is not a problem, is just the way the API works.')
+            # Display the user's input back to the user
+            st.write('You entered:', user_text)
+
             img_urls = serp_images(user_text)  
             for url in img_urls:
                 try:
